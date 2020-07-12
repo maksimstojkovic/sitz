@@ -6,7 +6,7 @@ Project Video:
 
 <a href="https://www.youtube.com/watch?v=ry0WPBVtJE4">
 	<p align="center">
-		<img src="https://img.youtube.com/vi/ry0WPBVtJE4/0.jpg" alt="Sitz Project Video"  style="width:100%; max-width:300px;">
+		<img src="https://img.youtube.com/vi/ry0WPBVtJE4/0.jpg" target="_blank" alt="Sitz Project Video"  style="width:100%; max-width:300px;">
 	</p>
 </a>
 
